@@ -1,4 +1,10 @@
-# 🛍️ Customer Segmentation
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Customer%20Segmentation&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Turning%20raw%20customer%20data%20into%20actionable%20segments&descSize=18&descAlignY=58" alt="Customer Segmentation banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cluster+customers+with+K-Means;Find+your+high-value+segments;Make+smarter+marketing+decisions" alt="Typing animation" />
+</p>
 
 > Grouping customers by behavior using unsupervised machine learning, so businesses can target the right people with the right message.
 
@@ -10,6 +16,7 @@
 ---
 
 ## 📌 Table of Contents
+- [Video Demo](#-video-demo)
 - [Overview](#-overview)
 - [Business Problem](#-business-problem)
 - [Dataset](#-dataset)
@@ -20,6 +27,14 @@
 - [Tech Stack](#-tech-stack)
 - [Future Improvements](#-future-improvements)
 - [Author](#-author)
+
+---
+
+## 🎬 Video Demo
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+▶️ **[Watch the full walkthrough on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
 
 ---
 
@@ -127,3 +142,7 @@ GitHub: [@TrivediMan](https://github.com/TrivediMan)
 <!-- LinkedIn: add your link -->
 
 ⭐ If you found this project useful, consider giving it a star!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer" alt="footer wave" />
+</p>
