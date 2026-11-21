@@ -31,7 +31,7 @@
 
 ## 🎬 Video Demo
 
-[![Watch the demo](https://drive.google.com/file/d/1fj3co2MNasUDhGQ7vVnvHKFGJNlMyv-5/view?usp=drive_link)
+(https://drive.google.com/file/d/1fj3co2MNasUDhGQ7vVnvHKFGJNlMyv-5/view?usp=drive_link)
 
 ---
 
