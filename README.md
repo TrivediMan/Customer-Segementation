@@ -16,7 +16,6 @@
 ---
 
 ## 📌 Table of Contents
-- [Video Demo](#-video-demo)
 - [Overview](#-overview)
 - [Business Problem](#-business-problem)
 - [Dataset](#-dataset)
@@ -32,9 +31,7 @@
 
 ## 🎬 Video Demo
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-▶️ **[Watch the full walkthrough on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
+[![Watch the demo](https://drive.google.com/file/d/1fj3co2MNasUDhGQ7vVnvHKFGJNlMyv-5/view?usp=drive_link)
 
 ---
 
